@@ -1,0 +1,105 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "flightNumber": "AB123",
+      "origin": "City A",
+      "destination": "City B",
+      "capacity": 100,
+      "reservedSeats": 50
+    },
+    {
+      "id": "2",
+      "flightNumber": "AB124",
+      "origin": "City A",
+      "destination": "City C",
+      "capacity": 100,
+      "reservedSeats": 50,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "3",
+      "flightNumber": "CD345",
+      "origin": "City B",
+      "destination": "City D",
+      "capacity": 150,
+      "reservedSeats": 75,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "4",
+      "flightNumber": "EF567",
+      "origin": "City C",
+      "destination": "City E",
+      "capacity": 200,
+      "reservedSeats": 120,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "5",
+      "flightNumber": "GH789",
+      "origin": "City D",
+      "destination": "City F",
+      "capacity": 250,
+      "reservedSeats": 150,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "d64f",
+      "flightNumber": "hola",
+      "origin": "dccs",
+      "destination": "csscsdcsdcdc",
+      "capacity": "csscdcsdc",
+      "reservedSeats": "12323",
+      "image": "wdwd"
+    },
+    {
+      "id": "ba36",
+      "flightNumber": "pr122",
+      "origin": "mede",
+      "destination": "car",
+      "capacity": "sdcdcs",
+      "reservedSeats": "1223",
+      "image": "assca"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2fee",
+      "name": "angela",
+      "email": "angela@gmail.com",
+      "dob": "2024-06-07",
+      "password": "ang123",
+      "role": "visitor"
+    },
+    {
+      "id": "3575",
+      "name": "alexander",
+      "email": "alexis123muri@gmail.com",
+      "dob": "2024-06-13",
+      "password": "123456"
+    },
+    {
+      "id": "b4eb",
+      "name": "jose",
+      "email": "jose@gmail.com",
+      "dob": "2024-06-07",
+      "password": "12"
+    },
+    {
+      "id": "a963",
+      "name": "maria ",
+      "email": "maria@gmail",
+      "dob": "2024-06-07",
+      "password": "1"
+    }
+  ],
+  "reservations": []
+}

@@ -1,0 +1,39 @@
+img {
+    height: 200px;
+}
+
+.card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.m-5 {
+    padding-left: 14cm;
+    padding-right: 14cm;
+}
+
+body {
+    background-color: aquamarine;
+    background-image: url(background1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{
+    text-align: center;
+}
+
+
+.sectionform{
+    width: 60%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+    margin: 10% auto;
+    padding: 40px;
+    
+}
+
+#tabledata{
+    width: 60%;
+    margin: auto;
+}
